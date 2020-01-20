@@ -1,0 +1,23 @@
+{
+  "name": "aplicaci-n-clima-geolocalizacion-node.js",
+  "version": "1.0.0",
+  "description": "Aplicació que a través de NODE.js ejecuta una api externa   y a través de comandos se puede elegir la ciudad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcadafalch/aplicaci-n-Clima-Geolocalizacion-NODE.JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lcadafalch/aplicaci-n-Clima-Geolocalizacion-NODE.JS/issues"
+  },
+  "homepage": "https://github.com/lcadafalch/aplicaci-n-Clima-Geolocalizacion-NODE.JS#readme",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "yargs": "^15.1.0"
+  }
+}
