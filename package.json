@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/lcadafalch/aplicaci-n-Clima-Geolocalizacion-NODE.JS#readme",
   "dependencies": {
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "yargs": "^15.1.0"
   }
 }
